@@ -24,7 +24,7 @@
   <a href="https://github.com/Elle-Williams/API-fetchData">
   </a>
 
-<h3 align="center">Temperature Conversion Program</h3>
+<h3 align="center">API Fetch</h3>
 
   <p align="center">
 
